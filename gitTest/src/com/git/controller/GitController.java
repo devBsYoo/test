@@ -10,4 +10,7 @@ public class GitController {
 		return a+b;
 	}
 	
+	public String sum (String a, String b) {
+		return a+b;
+	}
 }
